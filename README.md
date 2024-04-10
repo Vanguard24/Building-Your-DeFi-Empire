@@ -1,6 +1,4 @@
-# Avalanche-Subnets
-
-## ERC20 Token and Vault Smart Contract
+# Building-Your-DeFi-Empire
 
 ## Overview
 
@@ -48,7 +46,7 @@ Once deployed, interact with the contracts through the provided functions:
 
 ## Authors
 
-- pras777
+- [https://github.com/Vanguard24]
 
 ## License:
 
